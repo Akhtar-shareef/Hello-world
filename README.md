@@ -1,3 +1,9 @@
-# Hello-world
-just another repository
-I am Akhtar Shareef.
+<!DOCTYPE html>
+	<html>
+		<head>
+		<title>MY WEB PAGE</title>
+		</head>
+		<body>
+		Hello, World!
+		</body>
+	</html>
